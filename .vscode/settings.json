@@ -1,3 +1,5 @@
 {
+    "eslint.nodePath": "./web/node_modules",
+    "eslint.workingDirectories": ["./web"],
     "prettier.prettierPath": "./web/node_modules/prettier"
 }

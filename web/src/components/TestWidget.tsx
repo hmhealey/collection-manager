@@ -1,5 +1,7 @@
 import * as React from 'react';
 import {useSelector, useDispatch} from 'react-redux';
+
+// eslint-disable-next-line no-unused-vars
 import {GlobalState} from '../types/global_state';
 
 export default function TestWidget() {

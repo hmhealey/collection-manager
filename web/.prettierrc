@@ -1,0 +1,7 @@
+{
+  "bracketSpacing": false,
+  "jsxSingleQuote": true,
+  "parser": "typescript",
+  "singleQuote": true,
+  "tabWidth": 4
+}
