@@ -1,6 +1,4 @@
-export type Action =
-    IncrementAction |
-    DecrementAction;
+export type Action = IncrementAction | DecrementAction;
 
 export interface IncrementAction {
     type: 'increment';

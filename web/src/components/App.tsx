@@ -12,8 +12,8 @@ export default function App() {
         <Provider store={store}>
             <div>
                 <h1>Collection Manager!</h1>
-                <TestWidget/>
+                <TestWidget />
             </div>
         </Provider>
-    )
+    );
 }
